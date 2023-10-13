@@ -1,0 +1,606 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    height:70px ;
+    background-color:purple;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-container{
+    width: 100%;
+    height:70px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: segoe UI;
+}
+
+.nav{
+    width: 20%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center; 
+}
+
+.sign-items{
+
+    width: 100%;
+    color: black;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  .btn{
+    width: 60%;
+
+    background-color:white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:black;
+    
+  }
+
+.nav-links{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    color: white;
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items{
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+}
+
+/* banner css */
+
+.banner-details{
+    width: 100%;
+    height: 700px;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text{
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1px;
+  }
+
+  .banner-title{
+    font-size: 80px;
+    font-family: segoe UI;
+    font-weight: 5px;
+  }
+
+  .highlight{
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    text-transform: lowercase;
+    color:gray;
+  }
+
+
+  .button{
+    background-color:purple;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+
+    color:white;
+  }
+
+  .h4{
+    width: 30%;
+    height: 50px;
+    color: purple;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+
+  /* banner1 section end */
+
+  /* banner2 section start */
+
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header2{
+    width: 100%;
+    height:70px ;
+    color: white;
+    background-color:purple;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-container2{
+    width: 100%;
+    height:70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo2{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: segoe UI;
+}
+
+.nav2{
+    width: 30%;
+    height: 70px;
+    color:white;
+    display: flex;
+    align-items: center; 
+}
+
+.sign-items2{
+
+    width: 100%;
+    color: white;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  .btn2{
+    width: 60%;
+
+    background-color:rgb(137, 237, 30);
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:black;
+    
+  }
+
+
+/* banner css */
+
+
+
+.banner-details2{
+    width: 100%;
+    height: 700px;
+    background-color:purple;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text2{
+    width: 70%;
+    height: 500px;
+    background-color:purple;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1px;
+  }
+
+  .banner-title2{
+    width: 60%;
+    height: 200px;
+    font-size: 70px;
+    font-family: segoe UI;
+    background-color:purple;
+    font-weight: 5px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+
+  .highlight2{
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    background-color:purple;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    font-weight:5px;
+    font-size: 22px;
+    text-transform: lowercase;
+    color:white;
+  }
+  
+
+
+  .button2{
+    background-color:rgb(137, 237, 30);
+    border: none;
+    border-radius: 50px;
+    font-size: 10px;
+    text-align: center;
+    padding: 12px 30px;
+    font-weight: bold;
+
+    color:black;
+  }
+
+  .h4-2{
+    width: 30%;
+    height: 50px;
+    background-color:purple;
+    color: gray;
+    font-family: "Arial";
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+
+/* banner2 section end */
+
+/* banner3 section start */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header3{
+    width: 100%;
+    height:70px ;
+    background-color: #decfb7;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-container3{
+    width: 100%;
+    height:70px;
+    background-color: rgb(137, 237, 30);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo3{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: segoe UI;
+}
+
+.sign-items3{
+
+    width: 100%;
+    color: black;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  .btn3{
+    width: 60%;
+
+    background-color:white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:black;
+    
+  }
+
+.nav3{
+    width: 30%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+}
+
+.nav-links3{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    /* color: white; */
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items3{
+    cursor: pointer;
+}
+
+/* banner css */
+
+.banner3{
+    width: 90%;
+    height: 700px;
+    background-size: cover;
+    background-color:#ffffff;
+    /* background-color: grey; */
+    overflow: hidden;
+    display: flex;
+}
+
+.banner-details3{
+    width: 80%;
+    height: 700px;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text3{
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 10px;
+  }
+
+  .banner-title3{
+    font-size: 40px;
+    font-family: "Arial Rounded MT";
+    font-weight: 300;
+  }
+
+  .highlight3{
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: segoe UI;
+    border: 19px solid #decfb7;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #decfb7;
+  }
+  
+  @import url(https://fonts.googleapis.com/css?family=Roboto:300);
+header .header{
+  background-color: #fff;
+  height: 45px;
+}
+header a img{
+  width: 134px;
+margin-top: 4px;
+}
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.login-page .form .login{
+  margin-top: -31px;
+margin-bottom: 26px;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background-color: #328f8a;
+  background-image: linear-gradient(45deg,#328f8a,#08ac4b);
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header4{
+    width: 100%;
+    height:70px ;
+    background-color: #decfb7;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-container4{
+    width: 100%;
+    height:70px;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo4{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: segoe UI;
+}
+
+
+.nav4{
+    width: 30%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+
+.nav-links4{
+    width: 80%;
+    display: flex;
+    list-style-type: none;
+    /* color: white; */
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items4{
+    cursor: pointer;
+}
+
+.image-4{
+
+    width: 60%;
+    height: 500px;
+    background-size: 80px;
+    display: flex;
+    padding: 0px 0px 60px 400px;
+
+   
+
+}
+
+.banner-details4{
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+    /* display: flex;
+    justify-content: center;
+    align-items:center; */
+  } 
+
+   .banner-text4{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    row-gap: 8px;
+  } 
+
+  .banner-title4{
+    font-size: 40px;
+    font-family: "Arial Rounded MT";
+    font-weight: 300;
+  }
+
+
+ 
+
+  
+
+
+
+  

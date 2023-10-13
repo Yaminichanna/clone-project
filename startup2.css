@@ -1,0 +1,551 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header5{
+    width: 100%;
+    height:70px ;
+    background-color: #decfb7;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-container5{
+    width: 100%;
+    height:70px;
+    background-color: rgb(137, 237, 30);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo5{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: segoe UI;
+}
+
+.sign-items5{
+
+    width: 100%;
+    color: black;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  .btn5{
+    width: 60%;
+
+    background-color:white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:black;
+    
+  }
+
+.nav5{
+    width: 30%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+}
+
+.nav-links5{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    /* color: white; */
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items5{
+    cursor: pointer;
+}
+
+
+.image-5{
+
+    width: 60%;
+    height: 500px;
+    background-size: 80px;
+    display: flex;
+    padding: 0px 0px 60px 400px;
+
+   
+
+}
+.banner5{
+    width: 100%;
+    height: 1000px;
+}
+
+.banner-details5{
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+    /* display: flex;
+    justify-content: center;
+    align-items:center; */
+  } 
+
+   .banner-text5{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    row-gap: 8px;
+  } 
+
+  .banner-title5{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Arial Rounded MT";
+    font-weight: 300;
+  }
+
+  .get{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 60px 10px;
+
+  }
+  .button1{
+    background-color:purple;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:white;
+  }
+
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header6{
+    width: 100%;
+    height:70px ;
+    /* background-color:purple; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-container6{
+    width: 100%;
+    height:70px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo6{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: segoe UI;
+}
+
+.nav6{
+    width: 20%;
+    height: 70px;
+    color: red;
+    display: flex;
+    align-items: center; 
+}
+
+.sign-items6{
+
+    width: 100%;
+    color:black;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  .btn6{
+    width: 60%;
+
+    background-color:rgb(137, 237, 30);
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+    color:black;
+    
+  }
+
+.nav-links6{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items6{
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+}
+
+/* banner css */
+.banner6{
+    background-image: url("Peacock-peacocks-38848287-5069-3168.jpg.crdownload");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-details6{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text6{
+    width: 70%;
+    height: 500px;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1px;
+  }
+
+  .banner-title6{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    font-family: segoe UI;
+    font-weight: 5px;
+  }
+
+  .highlight6{
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    text-transform: lowercase;
+    color:gray;
+  }
+
+
+  .button6{
+    background-color:white;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+
+    color:white;
+  }
+
+  .youtubebtn{
+    width:20%;
+    height: 100px;
+    background-size:5px;
+    object-fit: fill;
+    justify-content: center;
+    display: flex;
+    /* padding: 0px 100px 0px 20px; */
+  }
+
+  .h4-6{
+    width: 60%;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  /* banner7 start
+
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header7{
+    width: 100%;
+    height:70px ;
+    background-color: #decfb7;
+    /* display: flex;
+    justify-content: center; 
+
+}
+
+.header-container7{
+    width: 50%;
+    height:70px;
+    background-color: rgb(137, 237, 30);
+    display: flex;
+    justify-content: center;
+}
+   
+
+.logo7{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: segoe UI;
+}
+
+.nav7{
+    width: 30%;
+    height: 70px;
+    /* background-color: blue; 
+    display: flex;
+    align-items: center;
+}
+
+.nav-links7{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    /* color: white; 
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items7{
+    cursor: pointer;
+}
+
+/* banner css 
+
+.banner-details7{
+    width: 100%;
+    height: 700px;
+    /* background-color: grey; 
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text7{
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1px;
+  }
+
+  .banner-title7{
+    font-size: 80px;
+    font-family: segoe UI;
+    font-weight: 5px;
+  }
+
+  .highlight7{
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    text-transform: lowercase;
+    color:gray;
+  }
+
+
+  .button7{
+    background-color:purple;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 32px;
+    font-weight: bold;
+
+    color:white;
+  }
+
+  .h4-7{
+    width: 30%;
+    height: 50px;
+    color: purple;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+
+.model7{
+    width: 90%;
+    height: 500px;
+    background-size: cover;
+    size: 60px;
+    background-color:#ffffff;
+    /* background-color: grey; */
+    /* overflow: hidden; 
+    display: flex;
+} */
+/* ------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    height:70px ;
+    background-color: #decfb7;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-container{
+    width: 80%;
+    height:70px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 15%;
+    height: 70px;
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: segoe UI;
+}
+
+.nav{
+    width: 20%;
+    height: 70px;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+}
+
+.nav-links{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    /* color: white; */
+    justify-content: space-between;
+    font-family: segoe UI;
+}
+
+.nav-items{
+    cursor: pointer;
+}
+
+/* banner css */
+
+.banner{
+    width: 100%;
+    height: 700px;
+    background-color:#ffffff;
+    /* background-color: grey; */
+    overflow: hidden;
+    display: flex;
+}
+
+.banner-details{
+    width: 80%;
+    height: 700px;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .banner-text{
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 10px;
+  }
+
+  .banner-title{
+    width: 100%;
+    font-size: 70px;
+    font-family: segoe UI;
+    font-weight: 5px;
+  }
+
+  .highlight{
+    width: 100%;
+    height: 200px;
+    padding: 30px 100px 0px 20px; 
+   
+    
+    color: rgb(183, 176, 176);
+    font-family: "Arial";
+    font-size: 25px;
+  }
+
+
+  
